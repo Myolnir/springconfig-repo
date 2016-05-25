@@ -1,8 +1,8 @@
 server:
   port: 1234
 spring:
-  hello:
-    name: Myolnir Production
+  hello: 
+    name: Myolnir Production refresh
 logging:
   levels:
     org.springframework.boot.env.PropertySourcesLoader: ERROR
