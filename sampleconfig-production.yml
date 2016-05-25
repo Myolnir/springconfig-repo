@@ -1,3 +1,6 @@
+spring:
+  hello:
+    name: Myolnir Production
 logging:
   levels:
     org.springframework.boot.env.PropertySourcesLoader: ERROR
