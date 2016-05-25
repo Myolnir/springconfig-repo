@@ -1,0 +1,4 @@
+logging:
+  levels:
+    org.springframework.boot.env.PropertySourcesLoader: ERROR
+    org.springframework.web: ERROR
