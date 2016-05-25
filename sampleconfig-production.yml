@@ -2,7 +2,7 @@ server:
   port: 1234
 spring:
   hello:
-    name: Myolnir Production changed by RefreshScope
+    name: Myolnir Production
 logging:
   levels:
     org.springframework.boot.env.PropertySourcesLoader: ERROR
