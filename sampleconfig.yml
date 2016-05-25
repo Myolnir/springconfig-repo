@@ -1,0 +1,7 @@
+spring:
+  hello:
+    name: Myolnir Default
+logging:
+  levels:
+    org.springframework.boot.env.PropertySourcesLoader: INFO
+    org.springframework.web: INFO
