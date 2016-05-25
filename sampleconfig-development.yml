@@ -1,0 +1,7 @@
+spring:
+  hello:
+    name: Myolnir Development
+logging:
+  levels:
+    org.springframework.boot.env.PropertySourcesLoader: DEBUG
+    org.springframework.web: DEBUG
